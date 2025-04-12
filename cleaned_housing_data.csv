@@ -1,0 +1,9 @@
+Cost,Durability,Climate Suitability,material_Brick,material_Cement,material_Steel,material_Wood
+0.0,0.40000000000000013,0.6666666666666665,True,False,False,False
+0.3125,0.6000000000000001,1.0,False,True,False,False
+0.9375,1.0,0.0,False,False,True,False
+0.15625,0.20000000000000018,0.33333333333333304,False,False,False,True
+0.03125,0.40000000000000013,0.6666666666666665,True,False,False,False
+1.0,1.0,0.0,False,False,True,False
+0.1875,0.0,0.33333333333333304,False,False,False,True
+0.34375,0.6000000000000001,1.0,False,True,False,False
